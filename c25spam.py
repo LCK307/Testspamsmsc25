@@ -148,7 +148,7 @@ def kiot(phone):
         'industry': 'Điện thoại & Điện máy',
         'ref_code': '',
         'industry_id': '65',
-        'phone_input': "0338607465",
+        'phone_input': "0946273293",
     }
 
     response = requests.post(
